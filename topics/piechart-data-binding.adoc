@@ -85,12 +85,12 @@ ifdef::win-forms[]
 endif::win-forms[]
 
 ifdef::xamarin[]
-** {ApiPlatform}Controls.Charts.{ApiVersion}dll
+** {ApiPlatform}Controls.Charts{ApiVersion}.dll
 
 endif::xamarin[]
 
 ifdef::xamarin[]
-** {ApiPlatform}v{ProductVersion}.dll
+** {ApiPlatform}{ApiVersion}dll
 
 endif::xamarin[]
 
